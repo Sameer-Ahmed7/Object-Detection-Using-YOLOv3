@@ -1,0 +1,15 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+sample1.jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\sample1.jpg,42,17,948,1175,0,0.9682246446609497,1200,1800
+sample3.jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\sample3.jpg,45,21,173,170,0,0.9425623416900635,225,225
+WIN_20200527_16_40_57_Pro.jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\WIN_20200527_16_40_57_Pro.jpg,506,132,892,624,0,0.8025618195533752,1280,720
+Z (10).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (10).jpg,75,0,174,105,0,0.6649283766746521,259,194
+Z (11).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (11).jpg,112,6,209,87,0,0.8747557401657104,320,157
+Z (2).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (2).jpg,184,0,221,52,0,0.35687169432640076,300,168
+Z (2).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (2).jpg,169,2,237,62,0,0.552007794380188,300,168
+Z (3).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (3).jpg,100,4,198,111,0,0.9703121781349182,310,163
+Z (4).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (4).jpg,75,3,176,100,0,0.9171766638755798,259,194
+Z (5).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (5).jpg,125,0,203,91,0,0.7590468525886536,297,170
+Z (6).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (6).jpg,80,0,180,118,0,0.9956943392753601,259,194
+Z (7).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (7).jpg,27,0,171,181,0,0.9654572606086731,198,254
+Z (8).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (8).jpg,82,19,137,72,0,0.8323783278465271,299,168
+Z (9).jpg,C:\YOLO\TrainYourOwnYOLO\Data\Source_Images\Test_Images\Z (9).jpg,105,0,201,114,0,0.9329179525375366,297,170
